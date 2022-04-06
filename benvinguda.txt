@@ -4,3 +4,4 @@ Marcos
 (C) Benvinguda a la branca02 Marcos
 (D) Modificació 02 Main Marcos
 (E) Afegim imatge a branca01 Marcos
+(F) Afegim imatge a branca02 Marcos
